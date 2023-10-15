@@ -21,6 +21,7 @@ Suppose you have the following in your directory:
 - messages.pl.yaml (base file)
 - messages.en.yaml
 - messages.de.yaml
-- messages.es.yaml  
+- messages.es.yaml
+  
 Running the script will compare the keys in the base file (messages.pl.yaml) with the keys in the other language files and print out any missing keys in each of the additional files.  
 
